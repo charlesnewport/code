@@ -2,7 +2,7 @@ var paused;
 var game;
 
 var scl = 20;
-var w = 400;
+var w = 300;
 var h = 600;
 
 var shapes = {0: [[1,1,0],
