@@ -29,7 +29,7 @@ function Cell(i, j){
 
 function Shape(){
   this.i = 0;
-  this.j = 9 * scl;
+  this.j = 4 * scl;
   this.b = false;
 
   this.v = int(random(0, 7))
